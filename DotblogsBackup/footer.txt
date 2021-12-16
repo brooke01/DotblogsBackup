@@ -1,0 +1,4 @@
+﻿    <script src="http://ajax.aspnetcdn.com/ajax/jquery/jquery-2.1.4.min.js"></script>
+    <script src="https://az788688.vo.msecnd.net/assets/js/copyright_demoshop.tw_.js?v=2017.10.21.1"></script>
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/2.2-latest/MathJax.js?config=TeX-AMS_HTML"></script>
+    <script type="text/javascript" src="https://az788688.vo.msecnd.net/assets/js/chart.js?v=2017.10.21.1"></script>

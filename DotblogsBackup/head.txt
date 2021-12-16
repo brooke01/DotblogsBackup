@@ -1,0 +1,73 @@
+﻿<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+    <meta charset="utf-8" />
+    <meta http-equiv="x-dns-prefetch-control" content="on" />
+    <link rel="dns-prefetch" href="http://dotblogsfile.blob.core.windows.net" />
+    <link rel="dns-prefetch" href="https://az788688.vo.msecnd.net" />
+    <link rel="dns-prefetch" href="https://az787680.vo.msecnd.net" />
+	<link rel="dns-prefetch" href="https://maxcdn.bootstrapcdn.com">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="https://dotblogs.com.tw/favicon.ico">  
+	
+    <link rel="shortcut icon" href="https://dotblogs.com.tw/favicon.ico" type="image/x-icon" />
+
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="https://az788688.vo.msecnd.net/assets/css/copyright_demoshop.tw_.css?v=2017.10.21.1" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="https://d1ypub5wfz82gq.cloudfront.net/AdsService/CSS/ba_ad.min.css?v=180704001">
+	<script src="https://az416426.vo.msecnd.net/scripts/a/ai.0.js"></script>
+    <title>阿沙布魯 - 點部落</title>
+
+    <meta property="og:type" content="article" />
+    <meta name="Author" content="阿沙布魯" />
+    
+    <meta property="og:site_name" content="阿沙布魯" />
+    
+	<link href="https://az788688.vo.msecnd.net/assets/css/theme-light.css?v=2017.10.21.1" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/8.9.1/styles/vs.min.css">
+    
+    <!--bloger custom begin-->
+    <style>
+        #dotblog-header {
+            background-color: #f7fff7;
+        }
+
+            #dotblog-header .center-container {
+                background-image: url('https://c.disquscdn.com/uploads/users/12718/9675/avatar92.jpg?1504504155');
+                background-repeat: no-repeat;
+            }
+
+                #dotblog-header .center-container .page-header__title {
+                    padding-top: 30px;
+                    margin: 0 0 35px 100px;
+                }
+
+        .article--in-list {
+            border: 3px solid #ddd;
+            transition: 350ms ease all;
+            padding: 15px;
+        }
+
+            .article--in-list:hover {
+                border-color: #79b030;
+            }
+
+        a.article__read-more {
+            color: #fff;
+            background-color: #0092ff;
+            padding: 9px;
+            border-radius: 4px;
+            text-decoration: none;
+        }
+
+            a.article__read-more:hover {
+                background-color: #0086e9;
+            }
+
+        .adsbygoogle {
+            display: none !important;
+        }
+    </style>
+    <!--bloger custom end-->
+    <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
+	<script src="https://az788688.vo.msecnd.net/assets/js/highlight.pack.js?v=2017.10.21.1"></script>
+</head>
